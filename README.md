@@ -12,6 +12,9 @@
   <a href="https://x.com/KabyikP" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
+  <a href="https://kabyik-paul-portfolio-ebon.vercel.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=FF6B1A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
+  </a>
 </div>
 
 <h3 align="left">🛠 Language and tools</h3>
